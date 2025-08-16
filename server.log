@@ -1,0 +1,65 @@
+2025-08-16 17:27:02,584 - Application started... - INFO
+INFO - 2025-08-16 17:27:37,164 - Application started...
+INFO - 2025-08-16 17:27:38,365 - get method: '/upload video' endpoint invoked: video uploaded.
+INFO -  2025-08-16 17:28:06,212 -  Application started...
+INFO -  2025-08-16 17:28:06,392 -  get method: '/upload video' endpoint invoked: video uploaded.
+INFO -  2025-08-16 17:28:29,248 -  get method: '/' endpoint invoked: root method return some message
+INFO - 2025-08-16 17:29:13,595 - Application started...
+INFO - 2025-08-16 17:29:14,010 - get method: '/' endpoint invoked: root method return some message
+INFO - 2025-08-16 17:29:25,201 - get method: '/upload video' endpoint invoked: video uploaded.
+INFO - 2025-08-16 17:30:03,457 - Application started...
+INFO - 2025-08-16 17:30:53,863 - Application started...
+INFO - 2025-08-16 17:33:52,259 - Application started...
+INFO - 2025-08-16 17:34:13,305 - Application started...
+INFO - 2025-08-16 17:35:33,412 - Application started...
+INFO - 2025-08-16 17:35:56,333 - Application started...
+INFO - 2025-08-16 17:36:58,314 - Application started...
+INFO - 2025-08-16 17:39:29,823 - Application started...
+INFO - 2025-08-16 17:39:46,794 - Application started...
+INFO - 2025-08-16 17:40:22,810 - Application started...
+INFO - 2025-08-16 17:40:38,274 - Application started...
+INFO - 2025-08-16 17:47:44,981 - Application started...
+INFO - 2025-08-16 17:47:56,611 - incoming request containing: / and GET
+ERROR - 2025-08-16 17:47:56,612 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 17:47:59,909 - incoming request containing: / and GET
+ERROR - 2025-08-16 17:47:59,910 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 17:50:59,720 - incoming request containing: / and GET
+ERROR - 2025-08-16 17:50:59,721 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 17:51:08,419 - incoming request containing: / and GET
+ERROR - 2025-08-16 17:51:08,420 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 17:51:13,349 - incoming request containing: /upload_video and GET
+ERROR - 2025-08-16 17:51:13,349 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 17:53:23,517 - incoming request containing: /upload_video and GET
+ERROR - 2025-08-16 17:53:23,519 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 17:54:48,042 - incoming request containing: /upload_video and GET
+ERROR - 2025-08-16 17:54:48,043 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 17:55:33,246 - Application started...
+INFO - 2025-08-16 17:55:33,581 - incoming request containing: / and GET
+ERROR - 2025-08-16 17:55:33,588 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 17:55:36,459 - incoming request containing: / and GET
+ERROR - 2025-08-16 17:55:36,461 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 18:00:16,140 - Application started...
+INFO - 2025-08-16 18:00:25,566 - Application started...
+INFO - 2025-08-16 18:00:43,274 - Application started...
+INFO - 2025-08-16 18:00:53,290 - incoming request containing: / and GET
+ERROR - 2025-08-16 18:00:53,291 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 18:00:56,129 - incoming request containing: / and GET
+ERROR - 2025-08-16 18:00:56,130 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 18:05:41,028 - incoming request containing: /upload_video and GET
+ERROR - 2025-08-16 18:05:41,029 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 18:05:44,777 - incoming request containing: / and GET
+ERROR - 2025-08-16 18:05:44,777 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 18:06:20,232 - incoming request containing: / and GET
+ERROR - 2025-08-16 18:06:20,233 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 18:06:33,288 - incoming request containing: /upload_video and GET
+ERROR - 2025-08-16 18:06:33,288 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 18:07:39,485 - incoming request containing: /upload_video and GET
+ERROR - 2025-08-16 18:07:39,485 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 18:07:45,189 - incoming request containing: / and GET
+ERROR - 2025-08-16 18:07:45,190 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 18:09:33,018 - incoming request containing: / and GET
+ERROR - 2025-08-16 18:09:33,023 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 18:09:40,526 - incoming request containing: / and GET
+ERROR - 2025-08-16 18:09:40,527 - Middleware error: 'coroutine' object has no attribute 'status_code'
+INFO - 2025-08-16 18:09:59,992 - incoming request containing: /upload_video and GET
+ERROR - 2025-08-16 18:09:59,992 - Middleware error: 'coroutine' object has no attribute 'status_code'
